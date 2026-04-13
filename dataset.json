@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Richmond, California with a population of over 116k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Richmond, California, US",
+  "export_job_id": "52a5fcdb-fb88-4601-9cb1-12720e3adf80",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 552557,
+  "location_name": "Richmond",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-richmond-california-us-sample-552557",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/552557/beamstation_552557_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.68,
+  "sample_records": 18,
+  "sample_sha256": "df402c8d8135824eee409ba7d02e769aa7eecf068c40a8113834b5d275043fd2",
+  "sample_size_bytes": 80048,
+  "total_records": 186,
+  "updated_at": "2026-04-09T14:15:29.135738+00:00"
+}
