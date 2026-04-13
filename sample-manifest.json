@@ -1,0 +1,12 @@
+{
+  "export_job_id": "52a5fcdb-fb88-4601-9cb1-12720e3adf80",
+  "id_short": 552557,
+  "published_at": "2026-04-13T19:15:14Z",
+  "repo_name": "all-restaurants-in-richmond-california-us-sample-552557",
+  "sample_asset_name": "beamstation_552557_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/552557/beamstation_552557_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 18,
+  "sample_sha256": "df402c8d8135824eee409ba7d02e769aa7eecf068c40a8113834b5d275043fd2",
+  "sample_size_bytes": 80048,
+  "total_records": 186
+}
