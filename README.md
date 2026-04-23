@@ -1,6 +1,6 @@
 # All Restaurants in Richmond, California, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `552557` |
 | Location | Richmond |
 | Category | Restaurants |
-| Full dataset size | 185 records |
-| Free sample size | 18 records (9.73%) |
-| Last export | 2026-04-16T15:19:09.330434+00:00 |
+| Full dataset size | 73 records |
+| Free sample size | 7 records (9.59%) |
+| Last export | 2026-04-23T13:29:19.038177+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-richmond-california-us-sample-552557/releases/download/sample-latest/beamstation_552557_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
